@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sireesha</h1>
-<h3 align="center">Growth Driven Individual, Programming Geek</h3>
 
 - 👀 I’m interested in **Python, Django, Javascript, HTML, CSS, React JS**
 
