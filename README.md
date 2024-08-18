@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sireesha</h1>
 
-- 👀 I’m interested in **Python, Django, Javascript, HTML, CSS, React JS**
+- 👀 I’m interested in **Javascript, HTML, CSS, React JS,Python, Django, *
 
 - 📫 How to reach me **msireeshar141504@gmail.com**
 
