@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sireesha</h1>
- 👀  I'm Dynamic Fullstack Developer with Focused on React Frontend Development.
+- 👀 I'm Dynamic Fullstack Developer with Focused on React Frontend Development.
 
 - 👀 I’m interested in **Javascript, HTML, CSS, React JS, Redux,Python, Django.**
 
